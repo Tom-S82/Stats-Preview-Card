@@ -1,0 +1,34 @@
+@import 'card';
+@import 'abstracts/colors';
+@import 'abstracts/fonts';
+
+html, body {
+  background-color: var(--color-primary-900);
+  color: var(--color-text-100);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  font-weight: 400;
+  height: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 1rem;
+}
+
+.attribution {
+  font-size: 11px; text-align: center;
+  
+  & a {
+    color: var(--color-secondary-600);
+  }
+}
+
+@import 'media';

@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Page](https://github.com/Tom-S82/fm-stats-preview-card)
-- Live Site URL: 
+- Live Site URL: [Stats Preview Card](https://tom-s82.github.io/fm-stats-preview-card/)
 
 ## My process
 My first project from Frontend Mentor and an attempt to escape tutorial misery with a practical project on my own.  I wanted to incorporate flexbox and grid into the layout as well as SCSS to develop that base knowledge.  I adopted a mobile-first approach to this design.  Once this looked close I added the desktop layout.  Next time I'll reference both from the start as I had to change the HTML slightly to accommodate the differences in the desktop layout.
@@ -56,6 +56,7 @@ My first project from Frontend Mentor and an attempt to escape tutorial misery w
 - Sync to github early on (I messed this up and eventually had to delete .git and reinitialise)
 - Save more complicated abstract SCSS libraries for larger projects
 - Add node_modules, slnx.sqlite & .suo to .gitignore
+- Check the html is set up correctly (e.g. correct paths to hrefs)
 
 
 ### Continued development
@@ -63,6 +64,7 @@ My first project from Frontend Mentor and an attempt to escape tutorial misery w
 - Properly centering elements on a page and keeping them responsive
 - Write DRYer code.  I had to clean up a lot of repetition - there's probably some still there
 - Get better at mixins and functions in SCSS (try to use them in the next project)
+- Integrating properly with Github pages & most likely external sites in the future
 
 
 ### Useful resources

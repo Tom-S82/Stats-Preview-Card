@@ -34,11 +34,3 @@ The designs were created to the following widths:
 
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
 - Weights: 400
-
-First submission, HTML, CSS & Sass, Flexbox, Grid
-
-https://github.com/Tom-S82/fm-stats-preview-card
-
-This is one of my first projects that doesn't just follow a tutorial. Constructive feedback welcome.
-
-I struggled to match the purple overlay color exactly on the image. It was always too light with the color in the style guide. I know Sass wasn't really necessary for this project but I wanted the practice :).

@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://Tom-S82.github.io/fm-stats-preview-card",
+  "homepage": "https://Tom-S82.github.io/fm-stats-preview-card/index.html",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "node-sass": "^5.0.0"
